@@ -117,7 +117,8 @@ _Blank = withStyles(__Blank, theme => ({
     borderRightWidth: 0,
     borderTopWidth: 0,
     borderBottomWidth: 0,
-    borderRadius: 0
+    borderRadius: 0,
+    alignSelf: "flex-start"
   },
   Text_7: {
     marginLeft: 0,
